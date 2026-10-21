@@ -1,0 +1,3 @@
+Kotlin 2017'de android ve google tarafından desteklenerek dünyada çok popüler hale geldi.
+
+4. commit

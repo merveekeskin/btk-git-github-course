@@ -1,0 +1,11 @@
+Python kitabı
+
+Önsöz: Bu kitap çok güzel olacak, hepimiz python öğreneceğiz.
+
+İlk Bölüm: Değişkenler ve veri tipleri.
+
+Değişkenler çok önemlidir.
+
+Bugün branchleri öğreniyoruz.
+
+Artık son commit'i de atıyoruz.

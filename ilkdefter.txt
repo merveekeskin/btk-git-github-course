@@ -1,0 +1,5 @@
+Git kursuna hoş bulduk.
+
+Bu dersimizde gitignore konusunu öğreniyoruz.
+
+Gitignore konusunu bitirdik.

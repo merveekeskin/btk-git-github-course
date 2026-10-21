@@ -1,0 +1,5 @@
+Kotlin çok güzel bir dildir, android uygulamaları yapılabilir.
+
+Sadece uygulama değil, web geliştirme için de kullanılabilir.
+
+Girişi bitirmiştik zaten.
